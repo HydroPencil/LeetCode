@@ -26,19 +26,21 @@
 <summary>1회독(50문제)</summary>
 <br>
 
-| 문제	                                                | 난이도  | 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                |
-|:---------------------------------------------------|:----:|:----:|:-----:|:----------:|:---------------------------------------------------|
-| 1. Two Sum                                         | easy |  11  |  25   | 2024/08/02 |                                                    |
-| 21. PalindromeNumber                               | easy |  19  |  25   | 2024/08/02 |                                                    |
-| 14. Longest Common Prefix                          | easy |  12  |  25   | 2024/08/03 |                                                    |
-| 21. Merge Two Sorted Lists                         | easy |  TO  |  25   | 2024/08/03 | 리스트 자료의 특성을 잘 생각해서 풀어보자                            |
-| 14. SqrtX                                          | easy |  23  |  25   | 2024/08/04 | 이진 탐색을 너무 늦게 생각했다                                  |
-| 190. Reverse Bits                                  | easy |  12  |  25   | 2024/08/04 | 비트 연산자를 빠르게 생각해 내서 쉽게 풀었음                          |
-| 441. Arranging Coins                               | easy |  15  |  25   | 2024/08/05 | 수학적 접근                                             |
-| 530. MinimumAbsoluteDifferenceInBST                | easy |  21  |  25   | 2024/08/05 |                                                    |
-| 2053. Kth Distinct String in an Array              | easy |  20  |  25   | 2024/08/06 | 문제 해석에서 시간 소요, 맵 자료구조 하나로 해결 가능해 보임                |
-| 2144. Minimum Cost Of Buying Candies With Discount | easy |  11  |  25   | 2024/08/06 | 내림 차순 배열을 생각하다 3의 배수를 의미하는 변수를 추가함으로써 더 간결하게 구현하였음 |
-| 1822. Sign of the Product of an Array              | easy |  6   |  25   | 2024/08/07 | 초기에 자료형의 메모리를 고려하지 않고 설계하다가 오버플로우 발생               |
-| 2129. Capitalize the Title                         | easy |  22  |  25   | 2024/08/07 | 마지막 공백(" ") 제거를 유의해야 한다                            |
+| 문제	                                                   | 난이도  | 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                |
+|:------------------------------------------------------|:----:|:----:|:-----:|:----------:|:---------------------------------------------------|
+| 1. Two Sum                                            | easy |  11  |  25   | 2024/08/02 |                                                    |
+| 21. PalindromeNumber                                  | easy |  19  |  25   | 2024/08/02 |                                                    |
+| 14. Longest Common Prefix                             | easy |  12  |  25   | 2024/08/03 |                                                    |
+| 21. Merge Two Sorted Lists                            | easy |  TO  |  25   | 2024/08/03 | 리스트 자료의 특성을 잘 생각해서 풀어보자                            |
+| 14. SqrtX                                             | easy |  23  |  25   | 2024/08/04 | 이진 탐색을 너무 늦게 생각했다                                  |
+| 190. Reverse Bits                                     | easy |  12  |  25   | 2024/08/04 | 비트 연산자를 빠르게 생각해 내서 쉽게 풀었음                          |
+| 441. Arranging Coins                                  | easy |  15  |  25   | 2024/08/05 | 수학적 접근                                             |
+| 530. MinimumAbsoluteDifferenceInBST                   | easy |  21  |  25   | 2024/08/05 |                                                    |
+| 2053. Kth Distinct String in an Array                 | easy |  20  |  25   | 2024/08/06 | 문제 해석에서 시간 소요, 맵 자료구조 하나로 해결 가능해 보임                |
+| 2144. Minimum Cost Of Buying Candies With Discount    | easy |  11  |  25   | 2024/08/06 | 내림 차순 배열을 생각하다 3의 배수를 의미하는 변수를 추가함으로써 더 간결하게 구현하였음 |
+| 1822. Sign of the Product of an Array                 | easy |  6   |  25   | 2024/08/07 | 초기에 자료형의 메모리를 고려하지 않고 설계하다가 오버플로우 발생               |
+| 2129. Capitalize the Title                            | easy |  22  |  25   | 2024/08/07 | 마지막 공백(" ") 제거를 유의해야 한다                            |
+| 2716. Minimize String Length                          | easy |  7   |  25   | 2024/08/08 |                |
+| 1827. Minimum Operations to Make the Array Increasing | easy |  6   |  25   | 2024/08/08 |                          |
 
 </details>
