@@ -40,7 +40,9 @@
 | 2144. Minimum Cost Of Buying Candies With Discount    | easy |  11  |  25   | 2024/08/06 | 내림 차순 배열을 생각하다 3의 배수를 의미하는 변수를 추가함으로써 더 간결하게 구현하였음 |
 | 1822. Sign of the Product of an Array                 | easy |  6   |  25   | 2024/08/07 | 초기에 자료형의 메모리를 고려하지 않고 설계하다가 오버플로우 발생               |
 | 2129. Capitalize the Title                            | easy |  22  |  25   | 2024/08/07 | 마지막 공백(" ") 제거를 유의해야 한다                            |
-| 2716. Minimize String Length                          | easy |  7   |  25   | 2024/08/08 |                |
-| 1827. Minimum Operations to Make the Array Increasing | easy |  6   |  25   | 2024/08/08 |                          |
+| 2716. Minimize String Length                          | easy |  7   |  25   | 2024/08/08 |                                                    |
+| 1827. Minimum Operations to Make the Array Increasing | easy |  6   |  25   | 2024/08/08 |                                                    |
+| 1518. Water Bottles                                   | easy |  8   |  25   | 2024/08/09 |                                                    |
+| 559. Maximum Depth of N-ary Tree                      | easy |  15  |  25   | 2024/08/09 | 트리에서 문제해결 할 때 경게값에서 문제가 발생(뿌리, 잎)하는 것을 조심하자        |
 
 </details>
