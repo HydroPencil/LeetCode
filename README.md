@@ -44,5 +44,7 @@
 | 1827. Minimum Operations to Make the Array Increasing | easy |  6   |  25   | 2024/08/08 |                                                    |
 | 1518. Water Bottles                                   | easy |  8   |  25   | 2024/08/09 |                                                    |
 | 559. Maximum Depth of N-ary Tree                      | easy |  15  |  25   | 2024/08/09 | 트리에서 문제해결 할 때 경게값에서 문제가 발생(뿌리, 잎)하는 것을 조심하자        |
+| 674. Longest Continuous Increasing Subsequence        | easy |  20  |  25   | 2024/08/10 |                                                    |
+| 680. Valid Palindrome II                              | easy |  15  |  25   | 2024/08/10 | 회문 문제의 한 유형.                                       |
 
 </details>
