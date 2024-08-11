@@ -46,5 +46,7 @@
 | 559. Maximum Depth of N-ary Tree                      | easy |  15  |  25   | 2024/08/09 | 트리에서 문제해결 할 때 경게값에서 문제가 발생(뿌리, 잎)하는 것을 조심하자        |
 | 674. Longest Continuous Increasing Subsequence        | easy |  20  |  25   | 2024/08/10 |                                                    |
 | 680. Valid Palindrome II                              | easy |  15  |  25   | 2024/08/10 | 회문 문제의 한 유형.                                       |
+| 3079. Find the Sum of Encrypted Integers              | easy |  22  |  25   | 2024/08/11 |                                                    |
+| 2974. Minimum Number Game                             | easy |  20  |  25   | 2024/08/11 |                                   |
 
 </details>
