@@ -52,7 +52,8 @@
 | 1791. Find Center Of Star Graph                           | easy |  10  |  25   | 2024/08/12 |                                                                                            |
 | 1967. Number of Strings That Appear as Substrings in Word | easy |  6   |  25   | 2024/08/13 | 성능이 않좋게 나왔다. String에서 지원하는 메소드를 그대로 쓴 이유. 다음에는 다른 방식으로 풀 것                                 |
 | 2180. Count Integers With Even Digit Sum                  | easy |  17  |  25   | 2024/08/13 |                                                                                            |
-
+| 110. Balanced Binary Tree                                 | easy |  23  |  25   | 2024/08/14 |                                 |
+| 145. Binary Tree Postorder Traversal                      | easy |  17  |  25   | 2024/08/14 |                                                                                            |
 
 
 </details>
