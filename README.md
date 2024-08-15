@@ -54,6 +54,8 @@
 | 2180. Count Integers With Even Digit Sum                  | easy |  17  |  25   | 2024/08/13 |                                                                                            |
 | 110. Balanced Binary Tree                                 | easy |  23  |  25   | 2024/08/14 |                                 |
 | 145. Binary Tree Postorder Traversal                      | easy |  17  |  25   | 2024/08/14 |                                                                                            |
+| 860. Lemonade Change                                      | easy |  20  |  25   | 2024/08/15 |                                 |
+| 1636. Sort Array by Increasing Frequency                  | easy |  17  |  25   | 2024/08/15 |                                                                                            |
 
 
 </details>
