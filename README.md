@@ -58,6 +58,8 @@
 | 1636. Sort Array by Increasing Frequency                     | easy |  17  |  25   | 2024/08/15 |                                                                                            |
 | 1784. Check if Binary String Has at Most One Segment of Ones | easy |  15  |  25   | 2024/08/16 |                                                                                            |
 | 1903. Largest Odd Number in String                           | easy |  7   |  25   | 2024/08/16 |                                                                                            |
+| 1437. Check If All 1's Are at Least Length K Places Away     | easy |  16  |  25   | 2024/08/17 | 분기문을 설정하는 사고력을 요구하는 문제였다.                                                                  |
+| 1534. Count Good Triplets                                    | easy |  10  |  25   | 2024/08/17 |                                                                                            |
 
 
 </details>
