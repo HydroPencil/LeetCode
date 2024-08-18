@@ -60,6 +60,8 @@
 | 1903. Largest Odd Number in String                           | easy |  7   |  25   | 2024/08/16 |                                                                                            |
 | 1437. Check If All 1's Are at Least Length K Places Away     | easy |  16  |  25   | 2024/08/17 | 분기문을 설정하는 사고력을 요구하는 문제였다.                                                                  |
 | 1534. Count Good Triplets                                    | easy |  10  |  25   | 2024/08/17 |                                                                                            |
+| 594. Longest Harmonious Subsequence                          | easy |  23  |  25   | 2024/08/18 | 조건 분기를 신경써야 할 게 많아서 다른 방법을 고민. Map자료구조를 사용하면서 편하게 해결                                       |
+| 509. Fibonacci Number                                        | easy |  10  |  25   | 2024/08/18 |                                                                                            |
 
 
 </details>
