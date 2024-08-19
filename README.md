@@ -62,6 +62,8 @@
 | 1534. Count Good Triplets                                    | easy |  10  |  25   | 2024/08/17 |                                                                                            |
 | 594. Longest Harmonious Subsequence                          | easy |  23  |  25   | 2024/08/18 | 조건 분기를 신경써야 할 게 많아서 다른 방법을 고민. Map자료구조를 사용하면서 편하게 해결                                       |
 | 509. Fibonacci Number                                        | easy |  10  |  25   | 2024/08/18 |                                                                                            |
+| 3194. Minimum Average of Smallest and Largest Elements       | easy |  5   |  25   | 2024/08/19 |                                                                                            |
+| 2810. Faulty Keyboard                                        | easy |  12  |  25   | 2024/08/19 | Stringbuilder 내용을 공부                                                                       |
 
 
 </details>
