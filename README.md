@@ -64,6 +64,8 @@
 | 509. Fibonacci Number                                        | easy |  10  |  25   | 2024/08/18 |                                                                                            |
 | 3194. Minimum Average of Smallest and Largest Elements       | easy |  5   |  25   | 2024/08/19 |                                                                                            |
 | 2810. Faulty Keyboard                                        | easy |  12  |  25   | 2024/08/19 | Stringbuilder 내용을 공부                                                                       |
+| 2264. Largest 3-Same-Digit Number in String                  | easy |  5   |  25   | 2024/08/20 |                                                                                            |
+| 2335. Minimum Amount of Time to Fill Cups                    | easy |  22  |  25   | 2024/08/20 | 조건 분기를 생각하는데 시간이 걸림                                                                        |
 
 
 </details>
