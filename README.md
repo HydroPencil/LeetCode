@@ -66,6 +66,8 @@
 | 2810. Faulty Keyboard                                        | easy |  12  |  25   | 2024/08/19 | Stringbuilder 내용을 공부                                                                       |
 | 2264. Largest 3-Same-Digit Number in String                  | easy |  5   |  25   | 2024/08/20 |                                                                                            |
 | 2335. Minimum Amount of Time to Fill Cups                    | easy |  22  |  25   | 2024/08/20 | 조건 분기를 생각하는데 시간이 걸림                                                                        |
+| 2255. Count Prefixes of a Given String                       | easy |  15  |  25   | 2024/08/21 | String 객체의 startsWith()메소드를 응용함                                                            |
+| 2437. Number of Valid Clock Times                            | easy |  10  |  25   | 2024/08/21 |                                                                        |
 
 
 </details>
