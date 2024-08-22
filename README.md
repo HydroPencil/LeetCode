@@ -67,7 +67,9 @@
 | 2264. Largest 3-Same-Digit Number in String                  | easy |  5   |  25   | 2024/08/20 |                                                                                            |
 | 2335. Minimum Amount of Time to Fill Cups                    | easy |  22  |  25   | 2024/08/20 | 조건 분기를 생각하는데 시간이 걸림                                                                        |
 | 2255. Count Prefixes of a Given String                       | easy |  15  |  25   | 2024/08/21 | String 객체의 startsWith()메소드를 응용함                                                            |
-| 2437. Number of Valid Clock Times                            | easy |  10  |  25   | 2024/08/21 |                                                                        |
+| 2437. Number of Valid Clock Times                            | easy |  10  |  25   | 2024/08/21 |                                                                                            |
+| 476. Number Complement                                       | easy |  20  |  25   | 2024/08/22 | 논리 연산자로 해결하려 했으나 수학적 기법으로 해결하는 것이 더 간편함을 중간에 깨달음                                           |
+| 2582. Pass the Pillow                                        | easy |  8   |  25   | 2024/08/22 |                                                                                            |
 
 
 </details>
