@@ -70,6 +70,8 @@
 | 2437. Number of Valid Clock Times                            | easy |  10  |  25   | 2024/08/21 |                                                                                            |
 | 476. Number Complement                                       | easy |  20  |  25   | 2024/08/22 | 논리 연산자로 해결하려 했으나 수학적 기법으로 해결하는 것이 더 간편함을 중간에 깨달음                                           |
 | 2582. Pass the Pillow                                        | easy |  8   |  25   | 2024/08/22 |                                                                                            |
+| 1189. Maximum Number of Ballons                              | easy |  11  |  25   | 2024/08/23 |                                         |
+| 1480. Running Sum of 1d Array                                | easy |  3   |  25   | 2024/08/23 |                                                                                            |
 
 
 </details>
