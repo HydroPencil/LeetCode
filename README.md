@@ -74,6 +74,8 @@
 | 1480. Running Sum of 1d Array                                | easy |  3   |  25   | 2024/08/23 |                                                                                            |
 | 2099. Find Subsequence of Length K With the Largest Sum      | easy |  TO  |  25   | 2024/08/24 | 기존배열을 무너뜨리지 않기 위한 조치로 우선순위큐 자료구조를 사용하는 것을 배웠음                                              |
 | 1844. Replace All Digits with Characters                     | easy |  19  |  25   | 2024/08/24 |                                                                                            |
+| 3136. Valid Word                                             | easy |  23  |  25   | 2024/08/25 |                                             |
+| 3142. Check if Grid Satisfies Conditions                     | easy |  12  |  25   | 2024/08/25 |                                                                                            |
 
 
 </details>
