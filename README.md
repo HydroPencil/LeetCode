@@ -91,8 +91,8 @@
 | 9. PalindromeNumber                                          | easy |  12  |  25   | 2024/08/27 |                                    |
 | 14. Longest Common Prefix                                    | easy |  15  |  25   | 2024/08/28 | 1회독 시 해결방법으로 동일하게 풀이해서 다른 방식으로 접근. |
 | 21. Merge Two Sorted Lists                                   | easy |  22  |  25   | 2024/08/28 | 재귀방식으로 해결                          |
-| 14. SqrtX                                                    | easy |      |  25   |            |                                    |
-| 190. Reverse Bits                                            | easy |      |  25   |            |                                    |
+| 14. SqrtX                                                    | easy |  15  |  25   | 2024/08/29 |                                    |
+| 190. Reverse Bits                                            | easy |  10  |  25   | 2024/08/29 |                                    |
 | 441. Arranging Coins                                         | easy |      |  25   |            |                                    |
 | 530. MinimumAbsoluteDifferenceInBST                          | easy |      |  25   |            |                                    |
 | 2053. Kth Distinct String in an Array                        | easy |      |  25   |            |                                    |
