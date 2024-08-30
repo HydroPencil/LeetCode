@@ -93,8 +93,8 @@
 | 21. Merge Two Sorted Lists                                   | easy |  22  |  25   | 2024/08/28 | 재귀방식으로 해결                          |
 | 14. SqrtX                                                    | easy |  15  |  25   | 2024/08/29 |                                    |
 | 190. Reverse Bits                                            | easy |  10  |  25   | 2024/08/29 |                                    |
-| 441. Arranging Coins                                         | easy |      |  25   |            |                                    |
-| 530. MinimumAbsoluteDifferenceInBST                          | easy |      |  25   |            |                                    |
+| 441. Arranging Coins                                         | easy |  5   |  25   | 2024/08/30 | 다른 풀이법은 불필요해 보임                    |
+| 530. MinimumAbsoluteDifferenceInBST                          | easy |  21  |  25   | 2024/08/30 | 직관성을 높이기 위해 메소드 분리를 하였음            |
 | 2053. Kth Distinct String in an Array                        | easy |      |  25   |            |                                    |
 | 2144. Minimum Cost Of Buying Candies With Discount           | easy |      |  25   |            |                                    |
 | 1822. Sign of the Product of an Array                        | easy |      |  25   |            |                                    |
