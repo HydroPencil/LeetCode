@@ -97,8 +97,8 @@
 | 530. MinimumAbsoluteDifferenceInBST                          | easy |  21  |  25   | 2024/08/30 | 직관성을 높이기 위해 메소드 분리를 하였음            |
 | 2053. Kth Distinct String in an Array                        | easy |  TO  |  25   | 2024/08/31 | 기존 코드에서 시간, 공간복잡도가 개선된 코드를 보고 작성   |
 | 2144. Minimum Cost Of Buying Candies With Discount           | easy |  10  |  25   | 2024/08/31 |                                    |
-| 1822. Sign of the Product of an Array                        | easy |      |  25   |            |                                    |
-| 2129. Capitalize the Title                                   | easy |      |  25   |            |                                    |
+| 1822. Sign of the Product of an Array                        | easy |  5   |  25   | 2024/09/01 |                                    |
+| 2129. Capitalize the Title                                   | easy |  17  |  25   | 2024/09/01 |                                    |
 | 2716. Minimize String Length                                 | easy |      |  25   |            |                                    |
 | 1827. Minimum Operations to Make the Array Increasing        | easy |      |  25   |            |                                    |
 | 1518. Water Bottles                                          | easy |      |  25   |            |                                    |
