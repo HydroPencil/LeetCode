@@ -99,8 +99,8 @@
 | 2144. Minimum Cost Of Buying Candies With Discount           | easy |  10  |  25   | 2024/08/31 |                                    |
 | 1822. Sign of the Product of an Array                        | easy |  5   |  25   | 2024/09/01 |                                    |
 | 2129. Capitalize the Title                                   | easy |  17  |  25   | 2024/09/01 |                                    |
-| 2716. Minimize String Length                                 | easy |      |  25   |            |                                    |
-| 1827. Minimum Operations to Make the Array Increasing        | easy |      |  25   |            |                                    |
+| 2716. Minimize String Length                                 | easy |  5   |  25   | 2024/09/02 | set자료구조를 사용해야 할 것을 바로 인지함          |
+| 1827. Minimum Operations to Make the Array Increasing        | easy |  5   |  25   | 2024/09/02 |                                    |
 | 1518. Water Bottles                                          | easy |      |  25   |            |                                    |
 | 559. Maximum Depth of N-ary Tree                             | easy |      |  25   |            |                                    |
 | 674. Longest Continuous Increasing Subsequence               | easy |      |  25   |            |                                    |
