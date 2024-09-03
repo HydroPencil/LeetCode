@@ -86,57 +86,57 @@
 <br>
 
 | 문제	                                                          | 난이도  | 걸린시간 | 제한시간	 |     날짜     | 코멘트                                |
-|:-------------------------------------------------------------|:----:|:----:|:-----:|:----------:|:-----------------------------------|
-| 1. Two Sum                                                   | easy |  10  |  25   | 2024/08/27 |                                    |
-| 9. PalindromeNumber                                          | easy |  12  |  25   | 2024/08/27 |                                    |
-| 14. Longest Common Prefix                                    | easy |  15  |  25   | 2024/08/28 | 1회독 시 해결방법으로 동일하게 풀이해서 다른 방식으로 접근. |
-| 21. Merge Two Sorted Lists                                   | easy |  22  |  25   | 2024/08/28 | 재귀방식으로 해결                          |
-| 14. SqrtX                                                    | easy |  15  |  25   | 2024/08/29 |                                    |
-| 190. Reverse Bits                                            | easy |  10  |  25   | 2024/08/29 |                                    |
-| 441. Arranging Coins                                         | easy |  5   |  25   | 2024/08/30 | 다른 풀이법은 불필요해 보임                    |
-| 530. MinimumAbsoluteDifferenceInBST                          | easy |  21  |  25   | 2024/08/30 | 직관성을 높이기 위해 메소드 분리를 하였음            |
-| 2053. Kth Distinct String in an Array                        | easy |  TO  |  25   | 2024/08/31 | 기존 코드에서 시간, 공간복잡도가 개선된 코드를 보고 작성   |
-| 2144. Minimum Cost Of Buying Candies With Discount           | easy |  10  |  25   | 2024/08/31 |                                    |
-| 1822. Sign of the Product of an Array                        | easy |  5   |  25   | 2024/09/01 |                                    |
-| 2129. Capitalize the Title                                   | easy |  17  |  25   | 2024/09/01 |                                    |
-| 2716. Minimize String Length                                 | easy |  5   |  25   | 2024/09/02 | set자료구조를 사용해야 할 것을 바로 인지함          |
-| 1827. Minimum Operations to Make the Array Increasing        | easy |  5   |  25   | 2024/09/02 |                                    |
-| 1518. Water Bottles                                          | easy |      |  25   |            |                                    |
-| 559. Maximum Depth of N-ary Tree                             | easy |      |  25   |            |                                    |
-| 674. Longest Continuous Increasing Subsequence               | easy |      |  25   |            |                                    |
-| 680. Valid Palindrome II                                     | easy |      |  25   |            |                                    |
-| 3079. Find the Sum of Encrypted Integers                     | easy |      |  25   |            |                                    |
-| 2974. Minimum Number Game                                    | easy |      |  25   |            |                                    |
-| 703. Kth Largest Element In a Stream                         | easy |      |  25   |            |                                    |
-| 1791. Find Center Of Star Graph                              | easy |      |  25   |            |                                    |
-| 1967. Number of Strings That Appear as Substrings in Word    | easy |      |  25   |            |                                    |
-| 2180. Count Integers With Even Digit Sum                     | easy |      |  25   |            |                                    |
-| 110. Balanced Binary Tree                                    | easy |      |  25   |            |                                    |
-| 145. Binary Tree Postorder Traversal                         | easy |      |  25   |            |                                    |
-| 860. Lemonade Change                                         | easy |      |  25   |            |                                    |
-| 1636. Sort Array by Increasing Frequency                     | easy |      |  25   |            |                                    |
-| 1784. Check if Binary String Has at Most One Segment of Ones | easy |      |  25   |            |                                    |
-| 1903. Largest Odd Number in String                           | easy |      |  25   |            |                                    |
-| 1437. Check If All 1's Are at Least Length K Places Away     | easy |      |  25   |            |                                    |
-| 1534. Count Good Triplets                                    | easy |      |  25   |            |                                    |
-| 594. Longest Harmonious Subsequence                          | easy |      |  25   |            |                                    |
-| 509. Fibonacci Number                                        | easy |      |  25   |            |                                    |
-| 3194. Minimum Average of Smallest and Largest Elements       | easy |      |  25   |            |                                    |
-| 2810. Faulty Keyboard                                        | easy |      |  25   |            |                                    |
-| 2264. Largest 3-Same-Digit Number in String                  | easy |      |  25   |            |                                    |
-| 2335. Minimum Amount of Time to Fill Cups                    | easy |      |  25   |            |                                    |
-| 2255. Count Prefixes of a Given String                       | easy |      |  25   |            |                                    |
-| 2437. Number of Valid Clock Times                            | easy |      |  25   |            |                                    |
-| 476. Number Complement                                       | easy |      |  25   |            |                                    |
-| 2582. Pass the Pillow                                        | easy |      |  25   |            |                                    |
-| 1189. Maximum Number of Ballons                              | easy |      |  25   |            |                                    |
-| 1480. Running Sum of 1d Array                                | easy |      |  25   |            |                                    |
-| 2099. Find Subsequence of Length K With the Largest Sum      | easy |      |  25   |            |                                    |
-| 1844. Replace All Digits with Characters                     | easy |      |  25   |            |                                    |
-| 3136. Valid Word                                             | easy |      |  25   |            |                                    |
-| 3142. Check if Grid Satisfies Conditions                     | easy |      |  25   |            |                                    |
-| 590. N-ary Tree Postorder Traversal                          | easy |      |  25   |            |                                    |
-| 1046. Last Stone Weight                                      | easy |      |  25   |            |                                    |
+|:-------------------------------------------------------------|:----:|:----:|:----:|:----------:|:-----------------------------------|
+| 1. Two Sum                                                   | easy |  10  |  25  | 2024/08/27 |                                    |
+| 9. PalindromeNumber                                          | easy |  12  |  25  | 2024/08/27 |                                    |
+| 14. Longest Common Prefix                                    | easy |  15  |  25  | 2024/08/28 | 1회독 시 해결방법으로 동일하게 풀이해서 다른 방식으로 접근. |
+| 21. Merge Two Sorted Lists                                   | easy |  22  |  25  | 2024/08/28 | 재귀방식으로 해결                          |
+| 14. SqrtX                                                    | easy |  15  |  25  | 2024/08/29 |                                    |
+| 190. Reverse Bits                                            | easy |  10  |  25  | 2024/08/29 |                                    |
+| 441. Arranging Coins                                         | easy |  5   |  25  | 2024/08/30 | 다른 풀이법은 불필요해 보임                    |
+| 530. MinimumAbsoluteDifferenceInBST                          | easy |  21  |  25  | 2024/08/30 | 직관성을 높이기 위해 메소드 분리를 하였음            |
+| 2053. Kth Distinct String in an Array                        | easy |  TO  |  25  | 2024/08/31 | 기존 코드에서 시간, 공간복잡도가 개선된 코드를 보고 작성   |
+| 2144. Minimum Cost Of Buying Candies With Discount           | easy |  10  |  25  | 2024/08/31 |                                    |
+| 1822. Sign of the Product of an Array                        | easy |  5   |  25  | 2024/09/01 |                                    |
+| 2129. Capitalize the Title                                   | easy |  17  |  25  | 2024/09/01 |                                    |
+| 2716. Minimize String Length                                 | easy |  5   |  25  | 2024/09/02 | set자료구조를 사용해야 할 것을 바로 인지함          |
+| 1827. Minimum Operations to Make the Array Increasing        | easy |  5   |  25  | 2024/09/02 |                                    |
+| 1518. Water Bottles                                          | easy |  6   |  25  | 2024/09/03 |                                    |
+| 559. Maximum Depth of N-ary Tree                             | easy |  13  |  25  | 2024/09/03 |                                    |
+| 674. Longest Continuous Increasing Subsequence               | easy |      |  25  |            |                                    |
+| 680. Valid Palindrome II                                     | easy |      |  25  |            |                                    |
+| 3079. Find the Sum of Encrypted Integers                     | easy |      |  25  |            |                                    |
+| 2974. Minimum Number Game                                    | easy |      |  25  |            |                                    |
+| 703. Kth Largest Element In a Stream                         | easy |      |  25  |            |                                    |
+| 1791. Find Center Of Star Graph                              | easy |      |  25  |            |                                    |
+| 1967. Number of Strings That Appear as Substrings in Word    | easy |      |  25  |            |                                    |
+| 2180. Count Integers With Even Digit Sum                     | easy |      |  25  |            |                                    |
+| 110. Balanced Binary Tree                                    | easy |      |  25  |            |                                    |
+| 145. Binary Tree Postorder Traversal                         | easy |      |  25  |            |                                    |
+| 860. Lemonade Change                                         | easy |      |  25  |            |                                    |
+| 1636. Sort Array by Increasing Frequency                     | easy |      |  25  |            |                                    |
+| 1784. Check if Binary String Has at Most One Segment of Ones | easy |      |  25  |            |                                    |
+| 1903. Largest Odd Number in String                           | easy |      |  25  |            |                                    |
+| 1437. Check If All 1's Are at Least Length K Places Away     | easy |      |  25  |            |                                    |
+| 1534. Count Good Triplets                                    | easy |      |  25  |            |                                    |
+| 594. Longest Harmonious Subsequence                          | easy |      |  25  |            |                                    |
+| 509. Fibonacci Number                                        | easy |      |  25  |            |                                    |
+| 3194. Minimum Average of Smallest and Largest Elements       | easy |      |  25  |            |                                    |
+| 2810. Faulty Keyboard                                        | easy |      |  25  |            |                                    |
+| 2264. Largest 3-Same-Digit Number in String                  | easy |      |  25  |            |                                    |
+| 2335. Minimum Amount of Time to Fill Cups                    | easy |      |  25  |            |                                    |
+| 2255. Count Prefixes of a Given String                       | easy |      |  25  |            |                                    |
+| 2437. Number of Valid Clock Times                            | easy |      |  25  |            |                                    |
+| 476. Number Complement                                       | easy |      |  25  |            |                                    |
+| 2582. Pass the Pillow                                        | easy |      |  25  |            |                                    |
+| 1189. Maximum Number of Ballons                              | easy |      |  25  |            |                                    |
+| 1480. Running Sum of 1d Array                                | easy |      |  25  |            |                                    |
+| 2099. Find Subsequence of Length K With the Largest Sum      | easy |      |  25  |            |                                    |
+| 1844. Replace All Digits with Characters                     | easy |      |  25  |            |                                    |
+| 3136. Valid Word                                             | easy |      |  25  |            |                                    |
+| 3142. Check if Grid Satisfies Conditions                     | easy |      |  25  |            |                                    |
+| 590. N-ary Tree Postorder Traversal                          | easy |      |  25  |            |                                    |
+| 1046. Last Stone Weight                                      | easy |      |  25  |            |                                    |
 
 </details>
 
