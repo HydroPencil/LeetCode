@@ -103,8 +103,8 @@
 | 1827. Minimum Operations to Make the Array Increasing        | easy |  5   |  25  | 2024/09/02 |                                    |
 | 1518. Water Bottles                                          | easy |  6   |  25  | 2024/09/03 |                                    |
 | 559. Maximum Depth of N-ary Tree                             | easy |  13  |  25  | 2024/09/03 |                                    |
-| 674. Longest Continuous Increasing Subsequence               | easy |      |  25  |            |                                    |
-| 680. Valid Palindrome II                                     | easy |      |  25  |            |                                    |
+| 674. Longest Continuous Increasing Subsequence               | easy |  5   |  25  | 2024/09/04 | 스택 자료구조를 활용, 가독성을 높임               |
+| 680. Valid Palindrome II                                     | easy |  22  |  25  | 2024/09/04 |                                    |
 | 3079. Find the Sum of Encrypted Integers                     | easy |      |  25  |            |                                    |
 | 2974. Minimum Number Game                                    | easy |      |  25  |            |                                    |
 | 703. Kth Largest Element In a Stream                         | easy |      |  25  |            |                                    |
