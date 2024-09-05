@@ -105,8 +105,8 @@
 | 559. Maximum Depth of N-ary Tree                             | easy |  13  |  25  | 2024/09/03 |                                    |
 | 674. Longest Continuous Increasing Subsequence               | easy |  5   |  25  | 2024/09/04 | 스택 자료구조를 활용, 가독성을 높임               |
 | 680. Valid Palindrome II                                     | easy |  22  |  25  | 2024/09/04 |                                    |
-| 3079. Find the Sum of Encrypted Integers                     | easy |      |  25  |            |                                    |
-| 2974. Minimum Number Game                                    | easy |      |  25  |            |                                    |
+| 3079. Find the Sum of Encrypted Integers                     | easy |  16  |  25  | 2024/09/05 | 코드 간편화 진행                          |
+| 2974. Minimum Number Game                                    | easy |  6   |  25  | 2024/09/05 |                                    |
 | 703. Kth Largest Element In a Stream                         | easy |      |  25  |            |                                    |
 | 1791. Find Center Of Star Graph                              | easy |      |  25  |            |                                    |
 | 1967. Number of Strings That Appear as Substrings in Word    | easy |      |  25  |            |                                    |
