@@ -107,8 +107,8 @@
 | 680. Valid Palindrome II                                     | easy |  22  |  25  | 2024/09/04 |                                    |
 | 3079. Find the Sum of Encrypted Integers                     | easy |  16  |  25  | 2024/09/05 | 코드 간편화 진행                          |
 | 2974. Minimum Number Game                                    | easy |  6   |  25  | 2024/09/05 |                                    |
-| 703. Kth Largest Element In a Stream                         | easy |      |  25  |            |                                    |
-| 1791. Find Center Of Star Graph                              | easy |      |  25  |            |                                    |
+| 703. Kth Largest Element In a Stream                         | easy |  TO  |  25  | 2024/09/06 | 우선순위큐를 활용한 문제풀이로 해결                |
+| 1791. Find Center Of Star Graph                              | easy |  3   |  25  | 2024/09/06 |                                    |
 | 1967. Number of Strings That Appear as Substrings in Word    | easy |      |  25  |            |                                    |
 | 2180. Count Integers With Even Digit Sum                     | easy |      |  25  |            |                                    |
 | 110. Balanced Binary Tree                                    | easy |      |  25  |            |                                    |
