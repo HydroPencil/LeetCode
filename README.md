@@ -111,8 +111,8 @@
 | 1791. Find Center Of Star Graph                              | easy |  3   |  25  | 2024/09/06 |                                    |
 | 1967. Number of Strings That Appear as Substrings in Word    | easy |  3   |  25  | 2024/09/07 |                                    |
 | 2180. Count Integers With Even Digit Sum                     | easy |  18  |  25  | 2024/09/07 | 검증을 진행하는 로직을 메소드로 분리해서 사용하였음       |
-| 110. Balanced Binary Tree                                    | easy |      |  25  |            |                                    |
-| 145. Binary Tree Postorder Traversal                         | easy |      |  25  |            |                                    |
+| 110. Balanced Binary Tree                                    | easy |  12  |  25  | 2024/09/08 |                                    |
+| 145. Binary Tree Postorder Traversal                         | easy |  11  |  25  | 2024/09/08 |                                    |
 | 860. Lemonade Change                                         | easy |      |  25  |            |                                    |
 | 1636. Sort Array by Increasing Frequency                     | easy |      |  25  |            |                                    |
 | 1784. Check if Binary String Has at Most One Segment of Ones | easy |      |  25  |            |                                    |
