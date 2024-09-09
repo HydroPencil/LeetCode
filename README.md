@@ -113,8 +113,8 @@
 | 2180. Count Integers With Even Digit Sum                     | easy |  18  |  25  | 2024/09/07 | 검증을 진행하는 로직을 메소드로 분리해서 사용하였음       |
 | 110. Balanced Binary Tree                                    | easy |  12  |  25  | 2024/09/08 |                                    |
 | 145. Binary Tree Postorder Traversal                         | easy |  11  |  25  | 2024/09/08 |                                    |
-| 860. Lemonade Change                                         | easy |      |  25  |            |                                    |
-| 1636. Sort Array by Increasing Frequency                     | easy |      |  25  |            |                                    |
+| 860. Lemonade Change                                         | easy |  22  |  25  | 2024/09/09 |                                    |
+| 1636. Sort Array by Increasing Frequency                     | easy |  17  |  25  | 2024/09/09 |                                    |
 | 1784. Check if Binary String Has at Most One Segment of Ones | easy |      |  25  |            |                                    |
 | 1903. Largest Odd Number in String                           | easy |      |  25  |            |                                    |
 | 1437. Check If All 1's Are at Least Length K Places Away     | easy |      |  25  |            |                                    |
