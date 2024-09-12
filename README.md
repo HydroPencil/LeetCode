@@ -117,10 +117,10 @@
 | 1636. Sort Array by Increasing Frequency                     | easy |  17  |  25  | 2024/09/09 |                                    |
 | 1784. Check if Binary String Has at Most One Segment of Ones | easy |  22  |  25  | 2024/09/10 |                                    |
 | 1903. Largest Odd Number in String                           | easy |  10  |  25  | 2024/09/10 |                                    |
-| 1437. Check If All 1's Are at Least Length K Places Away     | easy |      |  25  | 2024/09/11 |                                    |
-| 1534. Count Good Triplets                                    | easy |      |  25  | 2024/09/11 |                                    |
-| 594. Longest Harmonious Subsequence                          | easy |      |  25  |            |                                    |
-| 509. Fibonacci Number                                        | easy |      |  25  |            |                                    |
+| 1437. Check If All 1's Are at Least Length K Places Away     | easy |  -   |  25  | 2024/09/11 |                                    |
+| 1534. Count Good Triplets                                    | easy |  -   |  25  | 2024/09/11 |                                    |
+| 594. Longest Harmonious Subsequence                          | easy |  20  |  25  | 2024/09/12 |                                    |
+| 509. Fibonacci Number                                        | easy |  12  |  25  | 2024/09/12 |                                    |
 | 3194. Minimum Average of Smallest and Largest Elements       | easy |      |  25  |            |                                    |
 | 2810. Faulty Keyboard                                        | easy |      |  25  |            |                                    |
 | 2264. Largest 3-Same-Digit Number in String                  | easy |      |  25  |            |                                    |
