@@ -123,8 +123,8 @@
 | 509. Fibonacci Number                                        | easy |  12  |  25  | 2024/09/12 |                                                     |
 | 3194. Minimum Average of Smallest and Largest Elements       | easy |  12  |  25  | 2024/09/13 | 정렬과정을 제외한 풀이법으로 성능 개선                               |
 | 2810. Faulty Keyboard                                        | easy |  10  |  25  | 2024/09/13 | StringBuilder관련 내용을 다시 찾아보았다. 안보고 풀 수 있게 숙지하는 것이 좋음 |
-| 2264. Largest 3-Same-Digit Number in String                  | easy |      |  25  |            |                                                     |
-| 2335. Minimum Amount of Time to Fill Cups                    | easy |      |  25  |            |                                                     |
+| 2264. Largest 3-Same-Digit Number in String                  | easy |  18  |  25  | 2024/09/14 |                                                     |
+| 2335. Minimum Amount of Time to Fill Cups                    | easy |  12  |  25  | 2024/09/14 | 수학적 접근으로 코드 개선                                      |
 | 2255. Count Prefixes of a Given String                       | easy |      |  25  |            |                                                     |
 | 2437. Number of Valid Clock Times                            | easy |      |  25  |            |                                                     |
 | 476. Number Complement                                       | easy |      |  25  |            |                                                     |
