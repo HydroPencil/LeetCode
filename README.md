@@ -125,8 +125,8 @@
 | 2810. Faulty Keyboard                                        | easy |  10  |  25  | 2024/09/13 | StringBuilder관련 내용을 다시 찾아보았다. 안보고 풀 수 있게 숙지하는 것이 좋음 |
 | 2264. Largest 3-Same-Digit Number in String                  | easy |  18  |  25  | 2024/09/14 |                                                     |
 | 2335. Minimum Amount of Time to Fill Cups                    | easy |  12  |  25  | 2024/09/14 | 수학적 접근으로 코드 개선                                      |
-| 2255. Count Prefixes of a Given String                       | easy |      |  25  |            |                                                     |
-| 2437. Number of Valid Clock Times                            | easy |      |  25  |            |                                                     |
+| 2255. Count Prefixes of a Given String                       | easy |  TO  |  25  | 2024/09/15 | startWith() 메소드 동작을 직접 구현해 보았음                      |
+| 2437. Number of Valid Clock Times                            | easy |  18  |  25  | 2024/09/15 |                                                     |
 | 476. Number Complement                                       | easy |      |  25  |            |                                                     |
 | 2582. Pass the Pillow                                        | easy |      |  25  |            |                                                     |
 | 1189. Maximum Number of Ballons                              | easy |      |  25  |            |                                                     |
