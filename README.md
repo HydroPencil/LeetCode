@@ -127,8 +127,8 @@
 | 2335. Minimum Amount of Time to Fill Cups                    | easy |  12  |  25  | 2024/09/14 | 수학적 접근으로 코드 개선                                      |
 | 2255. Count Prefixes of a Given String                       | easy |  TO  |  25  | 2024/09/15 | startWith() 메소드 동작을 직접 구현해 보았음                      |
 | 2437. Number of Valid Clock Times                            | easy |  18  |  25  | 2024/09/15 |                                                     |
-| 476. Number Complement                                       | easy |      |  25  |            |                                                     |
-| 2582. Pass the Pillow                                        | easy |      |  25  |            |                                                     |
+| 476. Number Complement                                       | easy |  10  |  25  | 2024/09/16 | Integer 내장함수 highestOneBit()를 활용                    |
+| 2582. Pass the Pillow                                        | easy |  15  |  25  | 2024/09/16 |                                                     |
 | 1189. Maximum Number of Ballons                              | easy |      |  25  |            |                                                     |
 | 1480. Running Sum of 1d Array                                | easy |      |  25  |            |                                                     |
 | 2099. Find Subsequence of Length K With the Largest Sum      | easy |      |  25  |            |                                                     |
