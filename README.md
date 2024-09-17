@@ -131,8 +131,8 @@
 | 2582. Pass the Pillow                                        | easy |  15  |  25  | 2024/09/16 |                                                     |
 | 1189. Maximum Number of Ballons                              | easy |  14  |  25  | 2024/09/17 |                                                     |
 | 1480. Running Sum of 1d Array                                | easy |  10  |  25  | 2024/09/17 |                                                     |
-| 2099. Find Subsequence of Length K With the Largest Sum      | easy |      |  25  |            |                                                     |
-| 1844. Replace All Digits with Characters                     | easy |      |  25  |            |                                                     |
+| 2099. Find Subsequence of Length K With the Largest Sum      | easy |  23  |  25  | 2024/09/18 |                                                     |
+| 1844. Replace All Digits with Characters                     | easy |  20  |  25  | 2024/09/18 |                                                     |
 | 3136. Valid Word                                             | easy |      |  25  |            |                                                     |
 | 3142. Check if Grid Satisfies Conditions                     | easy |      |  25  |            |                                                     |
 | 590. N-ary Tree Postorder Traversal                          | easy |      |  25  |            |                                                     |
