@@ -129,8 +129,8 @@
 | 2437. Number of Valid Clock Times                            | easy |  18  |  25  | 2024/09/15 |                                                     |
 | 476. Number Complement                                       | easy |  10  |  25  | 2024/09/16 | Integer 내장함수 highestOneBit()를 활용                    |
 | 2582. Pass the Pillow                                        | easy |  15  |  25  | 2024/09/16 |                                                     |
-| 1189. Maximum Number of Ballons                              | easy |      |  25  |            |                                                     |
-| 1480. Running Sum of 1d Array                                | easy |      |  25  |            |                                                     |
+| 1189. Maximum Number of Ballons                              | easy |  14  |  25  | 2024/09/17 |                                                     |
+| 1480. Running Sum of 1d Array                                | easy |  10  |  25  | 2024/09/17 |                                                     |
 | 2099. Find Subsequence of Length K With the Largest Sum      | easy |      |  25  |            |                                                     |
 | 1844. Replace All Digits with Characters                     | easy |      |  25  |            |                                                     |
 | 3136. Valid Word                                             | easy |      |  25  |            |                                                     |
