@@ -148,8 +148,8 @@
 |:-------------------------------------------------------------|:----:|:----:|:-----:|:----------:|:----|
 | 1. Two Sum                                                   | easy |  6   |  25   | 2024/09/21 |     |
 | 9. PalindromeNumber                                          | easy |  8   |  25   | 2024/09/21 |     |
-| 14. Longest Common Prefix                                    | easy |      |  25   |            |     |
-| 21. Merge Two Sorted Lists                                   | easy |      |  25   |            |     |
+| 14. Longest Common Prefix                                    | easy |  12  |  25   | 2024/09/22 |     |
+| 21. Merge Two Sorted Lists                                   | easy |  10  |  25   | 2024/09/22 |     |
 | 14. SqrtX                                                    | easy |      |  25   |            |     |
 | 190. Reverse Bits                                            | easy |      |  25   |            |     |
 | 441. Arranging Coins                                         | easy |      |  25   |            |     |
