@@ -154,8 +154,8 @@
 | 190. Reverse Bits                                            | easy |  12  |  25   | 2024/09/23 |                      |
 | 441. Arranging Coins                                         | easy |  15  |  25   | 2024/09/24 | 양끝을 한번에 처리하면서 속도를 향상 |
 | 530. Minimum Absolute Difference in BST                      | easy |  22  |  25   | 2024/09/24 |                      |
-| 2053. Kth Distinct String in an Array                        | easy |      |  25   |            |                      |
-| 2144. Minimum Cost Of Buying Candies With Discount           | easy |      |  25   |            |                      |
+| 2053. Kth Distinct String in an Array                        | easy |  10  |  25   | 2024/09/25 |                      |
+| 2144. Minimum Cost Of Buying Candies With Discount           | easy |  11  |  25   | 2024/09/25 |                      |
 | 1822. Sign of the Product of an Array                        | easy |      |  25   |            |                      |
 | 2129. Capitalize the Title                                   | easy |      |  25   |            |                      |
 | 2716. Minimize String Length                                 | easy |      |  25   |            |                      |
