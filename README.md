@@ -162,8 +162,8 @@
 | 1827. Minimum Operations to Make the Array Increasing        | easy |  9   |  25   | 2024/09/27 |                      |
 | 1518. Water Bottles                                          | easy |  12  |  25   | 2024/09/28 |                      |
 | 559. Maximum Depth of N-ary Tree                             | easy |  15  |  25   | 2024/09/28 |                      |
-| 674. Longest Continuous Increasing Subsequence               | easy |      |  25   |            |                      |
-| 680. Valid Palindrome II                                     | easy |      |  25   |            |                      |
+| 674. Longest Continuous Increasing Subsequence               | easy |  14  |  25   | 2024/09/29 |                      |
+| 680. Valid Palindrome II                                     | easy |  22  |  25   | 2024/09/29 | 깔끔한 풀이법 작성           |
 | 3079. Find the Sum of Encrypted Integers                     | easy |      |  25   |            |                      |
 | 2974. Minimum Number Game                                    | easy |      |  25   |            |                      |
 | 703. Kth Largest Element In a Stream                         | easy |      |  25   |            |                      |
