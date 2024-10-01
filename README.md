@@ -166,8 +166,8 @@
 | 680. Valid Palindrome II                                     | easy |  22  |  25   | 2024/09/29 | 깔끔한 풀이법 작성           |
 | 3079. Find the Sum of Encrypted Integers                     | easy |  20  |  25   | 2024/09/30 |                      |
 | 2974. Minimum Number Game                                    | easy |  15  |  25   | 2024/09/30 |                      |
-| 703. Kth Largest Element In a Stream                         | easy |      |  25   |            |                      |
-| 1791. Find Center Of Star Graph                              | easy |      |  25   |            |                      |
+| 703. Kth Largest Element In a Stream                         | easy |  19  |  25   | 2024/10/01 |                      |
+| 1791. Find Center Of Star Graph                              | easy |  7   |  25   | 2024/10/01 |                      |
 | 1967. Number of Strings That Appear as Substrings in Word    | easy |      |  25   |            |                      |
 | 2180. Count Integers With Even Digit Sum                     | easy |      |  25   |            |                      |
 | 110. Balanced Binary Tree                                    | easy |      |  25   |            |                      |
