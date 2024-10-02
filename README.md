@@ -168,8 +168,8 @@
 | 2974. Minimum Number Game                                    | easy |  15  |  25   | 2024/09/30 |                      |
 | 703. Kth Largest Element In a Stream                         | easy |  19  |  25   | 2024/10/01 |                      |
 | 1791. Find Center Of Star Graph                              | easy |  7   |  25   | 2024/10/01 |                      |
-| 1967. Number of Strings That Appear as Substrings in Word    | easy |      |  25   |            |                      |
-| 2180. Count Integers With Even Digit Sum                     | easy |      |  25   |            |                      |
+| 1967. Number of Strings That Appear as Substrings in Word    | easy |  4   |  25   | 2024/10/02 |                      |
+| 2180. Count Integers With Even Digit Sum                     | easy |  8   |  25   | 2024/10/02 |                      |
 | 110. Balanced Binary Tree                                    | easy |      |  25   |            |                      |
 | 145. Binary Tree Postorder Traversal                         | easy |      |  25   |            |                      |
 | 860. Lemonade Change                                         | easy |      |  25   |            |                      |
