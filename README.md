@@ -174,8 +174,8 @@
 | 145. Binary Tree Postorder Traversal                         | easy |  11  |  25  | 2024/10/03 |                      |
 | 860. Lemonade Change                                         | easy |  15  |  25  | 2024/10/04 |                      |
 | 1636. Sort Array by Increasing Frequency                     | easy |  14  |  25  | 2024/10/04 |                      |
-| 1784. Check if Binary String Has at Most One Segment of Ones | easy |      |  25  |            |                      |
-| 1903. Largest Odd Number in String                           | easy |      |  25  |            |                      |
+| 1784. Check if Binary String Has at Most One Segment of Ones | easy |  15  |  25  | 2024/10/05 |                      |
+| 1903. Largest Odd Number in String                           | easy |  6   |  25  | 2024/10/05 |                      |
 | 1437. Check If All 1's Are at Least Length K Places Away     | easy |      |  25  |            |                      |
 | 1534. Count Good Triplets                                    | easy |      |  25  |            |                      |
 | 594. Longest Harmonious Subsequence                          | easy |      |  25  |            |                      |
