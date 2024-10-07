@@ -178,8 +178,8 @@
 | 1903. Largest Odd Number in String                           | easy |  6   |  25  | 2024/10/05 |                                    |
 | 1437. Check If All 1's Are at Least Length K Places Away     | easy |  10  |  25  | 2024/10/06 |                                    |
 | 1534. Count Good Triplets                                    | easy |  18  |  25  | 2024/10/06 | 3중 for문을 해체할 수 있는 방법을 찾느라 시간을 더 소모 |
-| 594. Longest Harmonious Subsequence                          | easy |      |  25  |            |                                    |
-| 509. Fibonacci Number                                        | easy |      |  25  |            |                                    |
+| 594. Longest Harmonious Subsequence                          | easy |  15  |  25  | 2024/10/07 |                                    |
+| 509. Fibonacci Number                                        | easy |  8   |  25  | 2024/10/07 |                                    |
 | 3194. Minimum Average of Smallest and Largest Elements       | easy |      |  25  |            |                                    |
 | 2810. Faulty Keyboard                                        | easy |      |  25  |            |                                    |
 | 2264. Largest 3-Same-Digit Number in String                  | easy |      |  25  |            |                                    |
