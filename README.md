@@ -180,8 +180,8 @@
 | 1534. Count Good Triplets                                    | easy |  18  |  25  | 2024/10/06 | 3중 for문을 해체할 수 있는 방법을 찾느라 시간을 더 소모 |
 | 594. Longest Harmonious Subsequence                          | easy |  15  |  25  | 2024/10/07 |                                    |
 | 509. Fibonacci Number                                        | easy |  8   |  25  | 2024/10/07 |                                    |
-| 3194. Minimum Average of Smallest and Largest Elements       | easy |      |  25  |            |                                    |
-| 2810. Faulty Keyboard                                        | easy |      |  25  |            |                                    |
+| 3194. Minimum Average of Smallest and Largest Elements       | easy |  10  |  25  | 2024/10/08 |                                    |
+| 2810. Faulty Keyboard                                        | easy |  12  |  25  | 2024/10/08 |                                    |
 | 2264. Largest 3-Same-Digit Number in String                  | easy |      |  25  |            |                                    |
 | 2335. Minimum Amount of Time to Fill Cups                    | easy |      |  25  |            |                                    |
 | 2255. Count Prefixes of a Given String                       | easy |      |  25  |            |                                    |
