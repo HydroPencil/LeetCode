@@ -182,8 +182,8 @@
 | 509. Fibonacci Number                                        | easy |  8   |  25  | 2024/10/07 |                                    |
 | 3194. Minimum Average of Smallest and Largest Elements       | easy |  10  |  25  | 2024/10/08 |                                    |
 | 2810. Faulty Keyboard                                        | easy |  12  |  25  | 2024/10/08 |                                    |
-| 2264. Largest 3-Same-Digit Number in String                  | easy |      |  25  |            |                                    |
-| 2335. Minimum Amount of Time to Fill Cups                    | easy |      |  25  |            |                                    |
+| 2264. Largest 3-Same-Digit Number in String                  | easy |  8   |  25  | 2024/10/09 |                                    |
+| 2335. Minimum Amount of Time to Fill Cups                    | easy |  16  |  25  | 2024/10/09 |                                    |
 | 2255. Count Prefixes of a Given String                       | easy |      |  25  |            |                                    |
 | 2437. Number of Valid Clock Times                            | easy |      |  25  |            |                                    |
 | 476. Number Complement                                       | easy |      |  25  |            |                                    |
