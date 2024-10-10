@@ -184,8 +184,8 @@
 | 2810. Faulty Keyboard                                        | easy |  12  |  25  | 2024/10/08 |                                    |
 | 2264. Largest 3-Same-Digit Number in String                  | easy |  8   |  25  | 2024/10/09 |                                    |
 | 2335. Minimum Amount of Time to Fill Cups                    | easy |  16  |  25  | 2024/10/09 |                                    |
-| 2255. Count Prefixes of a Given String                       | easy |      |  25  |            |                                    |
-| 2437. Number of Valid Clock Times                            | easy |      |  25  |            |                                    |
+| 2255. Count Prefixes of a Given String                       | easy |  5   |  25  | 2024/10/10 |                                    |
+| 2437. Number of Valid Clock Times                            | easy |  11  |  25  | 2024/10/10 |                                    |
 | 476. Number Complement                                       | easy |      |  25  |            |                                    |
 | 2582. Pass the Pillow                                        | easy |      |  25  |            |                                    |
 | 1189. Maximum Number of Ballons                              | easy |      |  25  |            |                                    |
