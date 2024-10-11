@@ -186,8 +186,8 @@
 | 2335. Minimum Amount of Time to Fill Cups                    | easy |  16  |  25  | 2024/10/09 |                                    |
 | 2255. Count Prefixes of a Given String                       | easy |  5   |  25  | 2024/10/10 |                                    |
 | 2437. Number of Valid Clock Times                            | easy |  11  |  25  | 2024/10/10 |                                    |
-| 476. Number Complement                                       | easy |      |  25  |            |                                    |
-| 2582. Pass the Pillow                                        | easy |      |  25  |            |                                    |
+| 476. Number Complement                                       | easy |  10  |  25  | 2024/10/11 |                                    |
+| 2582. Pass the Pillow                                        | easy |  6   |  25  | 2024/10/11 |                                    |
 | 1189. Maximum Number of Ballons                              | easy |      |  25  |            |                                    |
 | 1480. Running Sum of 1d Array                                | easy |      |  25  |            |                                    |
 | 2099. Find Subsequence of Length K With the Largest Sum      | easy |      |  25  |            |                                    |
