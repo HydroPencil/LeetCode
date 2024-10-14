@@ -191,9 +191,9 @@
 | 1189. Maximum Number of Ballons                              | easy |  14  |  25  | 2024/10/12 |                                    |
 | 1480. Running Sum of 1d Array                                | easy |  10  |  25  | 2024/10/12 |                                    |
 | 2099. Find Subsequence of Length K With the Largest Sum      | easy |  17  |  25  | 2024/10/13 |                                    |
-| 1844. Replace All Digits with Characters                     | easy |      |  25  | 2024/10/13 |                                    |
-| 3136. Valid Word                                             | easy |      |  25  |            |                                    |
-| 3142. Check if Grid Satisfies Conditions                     | easy |      |  25  |            |                                    |
+| 1844. Replace All Digits with Characters                     | easy |  -   |  25  | 2024/10/13 |                                    |
+| 3136. Valid Word                                             | easy |  15  |  25  | 2024/10/14 |                                    |
+| 3142. Check if Grid Satisfies Conditions                     | easy |  21  |  25  | 2024/10/14 |                                    |
 | 590. N-ary Tree Postorder Traversal                          | easy |      |  25  |            |                                    |
 | 1046. Last Stone Weight                                      | easy |      |  25  |            |                                    |
 
