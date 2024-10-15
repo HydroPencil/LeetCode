@@ -194,7 +194,7 @@
 | 1844. Replace All Digits with Characters                     | easy |  -   |  25  | 2024/10/13 |                                    |
 | 3136. Valid Word                                             | easy |  15  |  25  | 2024/10/14 |                                    |
 | 3142. Check if Grid Satisfies Conditions                     | easy |  21  |  25  | 2024/10/14 |                                    |
-| 590. N-ary Tree Postorder Traversal                          | easy |      |  25  |            |                                    |
-| 1046. Last Stone Weight                                      | easy |      |  25  |            |                                    |
+| 590. N-ary Tree Postorder Traversal                          | easy |  19  |  25  | 2024/10/15 |                                    |
+| 1046. Last Stone Weight                                      | easy |  14  |  25  | 2024/10/15 |                                    |
 
 </details>
